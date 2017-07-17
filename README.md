@@ -1,22 +1,25 @@
 # game-Hangman
-[Name of Game]
+Hangman - guess the flowers
 
-[screenshot]
+![screen shot 2017-07-17 at 12 24 09 am](https://user-images.githubusercontent.com/19811584/28268136-1211dff6-6acb-11e7-9bae-30383ea05395.png)
 
-What is [name of game]?
 
-Brief discussion of what the game is and why you chose to make it
-Technical Discussion
+## Hangman-guess the flowers<br/>
+<p>I made one player game where the player has to guess diferent flowers.</p></br>
 
-List of the technologies you're using (HTML, CSS, JavaScript)
-Notes on Game Structure
 
-Code samples, description of challenges you overcame, etc.
-The Making of [Your Game]
+## I used HTML, CSS, JavaScript <br/>
 
-Any credits or notes you feel you should add
-Opportunities for Future Growth
 
-If you had more time to work on your game, what would you do?
+## Chalenges </br>
+One of the most chalenges things for me was making the woes appear the way I wanted - dipending of the length and also I wanted to create undelines before actualy the word appear - for that I used div and h1, I made the h1 invisible with each letter inside.</br>
+
+## Future updates
+1. Definitly I will include leves.
+2.Different categoies that the player has to guess
+3.Add background - music
+4.Add picture with information when the player guess the picture
+5.Update the design
+
 API Training Shop Blog About
 © 2017 GitHub, Inc. Help Support
