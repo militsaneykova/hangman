@@ -1,0 +1,124 @@
+body{
+      margin: 0;
+      width: 1000px;
+      background: url('bricks.jpeg') ;
+      background-size: cover;
+      background-attachment: fixed;
+}
+
+.main{
+    width: 1200px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+}
+.boxes{
+    margin-top: 50px;
+    margin-left: 350px;
+    width: 700px;
+    height: 120px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.box{
+    width: 70px;
+    height: 50px;
+    font-size: 50px;
+    background-color: white;
+    box-shadow: 10px 10px 5px#888888;
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    color: red;
+}
+#letters{
+    margin-top: 40px;
+    margin-left: 350px;
+    width: 700px;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.showLetters{
+    margin-top: 100px;
+    margin-left: 500px;
+    background-color: white;
+    box-shadow: 10px 10px 5px #888888;
+    width: 300px;
+    height: 60px;
+    font-size: 30px;
+    padding-top: 10px;
+    letter-spacing: 22px;
+    padding-left: 80px;
+    font-family: 'Courgette', cursive;
+    
+    }
+    .header {
+        background-color: red;
+    }
+    .hidden{
+        margin-right: 20px;
+        padding-top: 260px;
+        width: 65px;
+        height: 70px;
+        border-bottom: 5px solid black;
+    }
+    .show{
+        padding-top: 15px;
+        font-size: 60px ;
+        text-align: center;
+        font-family: 'Courgette', cursive;
+    }
+    #mainHeader{
+        text-align: center;
+        font-size: 70px ;
+        height: 220px;
+        margin-left: 160px;
+        font-family: 'Courgette', cursive;
+        color: black;
+    }
+
+   #non{
+       margin-top: 400px;
+       margin-left: 650px;
+       
+   }
+   .images{
+       height: 600px;
+       width: 400px;
+       display: block;
+   }
+   #lose{
+       margin-top: 50px;
+       margin-bottom: 500px;
+       width: 1000px;
+       height: 700px;
+       position: absolute;
+       visibility: hidden;
+   }
+   #win{
+       width: 1500px;
+       height: 1000px;
+       position: absolute;
+       visibility: hidden;
+   }
+   input{
+       width: 60px;
+       height: 60px;
+       font-size: 35px;
+       font-family: 'Courgette', cursive;
+   }
+   button{
+       padding-top: 17px;
+       width: 60px;
+       height: 65px;
+       text-align: center;
+       font-size: 15px;
+       font-family: 'Courgette', cursive;
+   }
+
+  
+
