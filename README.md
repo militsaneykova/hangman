@@ -12,7 +12,7 @@ Hangman - guess the flowers
 
 
 ## Chalenges </br>
-One of the most chalenges things for me was making the woes appear the way I wanted - dipending of the length and also I wanted to create undelines before actualy the word appear - for that I used div and h1, I made the h1 invisible with each letter inside.</br>
+One of the most chalenges things for me was making the words appear the way I wanted - depending of the length and also I wanted to create undelines before actualy the word appear - for that I used div and h1, I made the h1 invisible with each letter inside.</br>
 
 ## Future updates
 1. Definitly I will include leves.
